@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3068725b-9daa-4dfd-a04c-b847a58768be",
+    "Name": "AndreyServicesInFolder",
+    "ModifiedOnUtc": "\/Date(1658638035000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Услуги в группе",
+    "DependsOn": []
+  }
+}

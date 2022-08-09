@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Билеты" />
+			<Item Name="Columns.AndreyAndreyAppeals.Caption" Value="Заявки" />
+			<Item Name="Columns.AndreyAppealDetailTicketsCategory.Caption" Value="Категория" />
+			<Item Name="Columns.AndreyAppealDetailTicketsOwner.Caption" Value="Владелец" />
+			<Item Name="Columns.AndreyAppealDetailTicketsPrice.Caption" Value="Стоимость" />
+			<Item Name="Columns.AndreyAppealDetailTicketsService.Caption" Value="Услуга" />
+			<Item Name="Columns.AndreyName.Caption" Value="Название" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

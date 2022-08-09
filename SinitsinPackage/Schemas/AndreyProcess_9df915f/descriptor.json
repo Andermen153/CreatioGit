@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c56c9db4-5949-4f68-9923-793a66627ee9",
+    "Name": "AndreyProcess_9df915f",
+    "ModifiedOnUtc": "\/Date(1658745786000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Выставить время разрешения",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask1_8edff3d64b654345a6e83214a1206ced.Caption" Value="Определить схему объекта для генерации номера" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask2_09df12ae87ed449481c66a557aeee096.Caption" Value="Записать полученный номер в колонку объекта" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage1_3e20972f1cee4377b4eba5de9c25f08f.Caption" Value="Заполнение номера" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1_3fc9d7eff97d4daa979560841a1ef78d.Caption" Value="Сгенерировать номер по порядку" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1_3fc9d7eff97d4daa979560841a1ef78d.Parameters.EntitySchema.Caption" Value="EntitySchema" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1_3fc9d7eff97d4daa979560841a1ef78d.Parameters.EntitySchema.DisplayValue" Value="[#Системная настройка.Номер заявки#]" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1_3fc9d7eff97d4daa979560841a1ef78d.Parameters.ResultCode.Caption" Value="ResultCode" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_161228636ac64a5b9e8f8300a4f72c1d.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_161228636ac64a5b9e8f8300a4f72c1d.Lanes.Lane_7cd542d79d1a424b8fa8208837ad869f.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

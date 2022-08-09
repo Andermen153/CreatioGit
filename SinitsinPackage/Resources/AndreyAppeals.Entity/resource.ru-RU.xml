@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Заявки" />
+			<Item Name="Columns.AndreyAppealsApplicant.Caption" Value="Заявитель" />
+			<Item Name="Columns.AndreyAppealsAuthor.Caption" Value="Инициатор/Автор" />
+			<Item Name="Columns.AndreyAppealsAveragePrice.Caption" Value="Средняя стоимость билета" />
+			<Item Name="Columns.AndreyAppealsComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.AndreyAppealsCondition.Caption" Value="Состояние" />
+			<Item Name="Columns.AndreyAppealsExpensiveTicket.Caption" Value="Самый дорогой билет в заявке" />
+			<Item Name="Columns.AndreyAppealsNumber.Caption" Value="Номер" />
+			<Item Name="Columns.AndreyAppealsResolutionTime.Caption" Value="Время разрешения" />
+			<Item Name="Columns.AndreyAppealsResolutionTimeUnit.Caption" Value="Единица времени разрешения" />
+			<Item Name="Columns.AndreyAppealsResponsible.Caption" Value="Ответственный" />
+			<Item Name="Columns.AndreyAppealsService.Caption" Value="Услуга" />
+			<Item Name="Columns.AndreyAppealsServicesCategory.Caption" Value="Категория услуги" />
+			<Item Name="Columns.AndreyAppealsStringService.Caption" Value="УслугаСтрока" />
+			<Item Name="Columns.AndreyAppealsTheme.Caption" Value="Тема" />
+			<Item Name="Columns.AndreyAppealsTotalSum.Caption" Value="Общая сумма по заявке" />
+			<Item Name="Columns.AndreyName.Caption" Value="Название" />
+			<Item Name="Columns.AndreyNotes.Caption" Value="Заметки" />
+			<Item Name="EventsProcessSchema.Caption" Value="Заявки" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d7bfa856-a9d9-49db-b8f7-81e07d4cd512",
+    "Name": "AndreyAppealsFile",
+    "ModifiedOnUtc": "\/Date(1658637953000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Заявки",
+    "DependsOn": []
+  }
+}
