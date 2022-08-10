@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "04ad0c05-41b1-4484-9a6c-c421c26b4bf0",
+    "Name": "AndreyAppeals",
+    "ModifiedOnUtc": "\/Date(1658748633000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Заявки",
+    "DependsOn": []
+  }
+}

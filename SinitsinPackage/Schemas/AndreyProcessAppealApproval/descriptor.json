@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "44f1d29c-f881-4d80-b1ef-939d99042f99",
+    "Name": "AndreyProcessAppealApproval",
+    "ModifiedOnUtc": "\/Date(1658735511000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Бизнес-процесс 1",
+    "DependsOn": []
+  }
+}

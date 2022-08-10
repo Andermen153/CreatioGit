@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "61a34cce-c105-480c-a0c3-cf7fc9ab070f",
+    "Name": "AndreyServicesFolder",
+    "ModifiedOnUtc": "\/Date(1658638032000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Услуги",
+    "DependsOn": []
+  }
+}

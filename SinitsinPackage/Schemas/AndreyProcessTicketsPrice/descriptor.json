@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "78423cb2-e513-40c2-9bba-ed59cc6c590f",
+    "Name": "AndreyProcessTicketsPrice",
+    "ModifiedOnUtc": "\/Date(1658726122000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Подсчет суммы билетов",
+    "DependsOn": []
+  }
+}

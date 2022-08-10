@@ -1,0 +1,127 @@
+= MetaData.Schema.UId "44d21e4c-d0a6-4540-a180-23fc41526fe1"
+= MetaData.Schema.A2 "AndreyServices"
+= MetaData.Schema.A5 "30df8638-6508-47bb-840a-64ecaff15925"
+= MetaData.Schema.B6 "6ba274f5-1d66-84e8-f145-e9cf3b15fd77"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.UId "e3753e3b-a668-4b02-93df-934cfdb5c001"
+= MetaData.Schema.EG1.A2 "AndreyServicesEventsProcess"
+= MetaData.Schema.EG1.A5 "30df8638-6508-47bb-840a-64ecaff15925"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.EG1.Labels []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D4 "860cbfb7-c3ac-4222-aba0-c6779be64dc7"
++ MetaData.Schema.D2 {
+  "UId": "860cbfb7-c3ac-4222-aba0-c6779be64dc7",
+  "A2": "AndreyName",
+  "A3": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A4": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A5": "30df8638-6508-47bb-840a-64ecaff15925",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1,
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "12b3518d-4a5a-4733-b45d-b63d62189227",
+  "A2": "AndreyNotes",
+  "A3": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A4": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A5": "30df8638-6508-47bb-840a-64ecaff15925",
+  "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "0d8aa50a-60f7-4f60-b461-404ec8f737b7",
+  "A2": "AndreyServicesResolutionTime",
+  "A3": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A4": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A5": "30df8638-6508-47bb-840a-64ecaff15925",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "26f92a30-ad14-4044-af5d-8725b9896794",
+  "A2": "AndreyServicesResolutionTimeUnit",
+  "A3": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A4": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A5": "30df8638-6508-47bb-840a-64ecaff15925",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "cd7da2be-ae22-45ed-8b28-8761152773dc",
+  "E6": true,
+  "E17": "AndreyServicesResolutionTimeUnitId",
+  "E18": "AndreyServicesResolutionTimeUnitName"
+}
++ MetaData.Schema.D2 {
+  "UId": "273cc29f-c5e0-4abf-be4c-8f1ee7c78ad2",
+  "A2": "AndreyServicesCategory",
+  "A3": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A4": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A5": "30df8638-6508-47bb-840a-64ecaff15925",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "b1141af7-45ea-4f3c-8607-15a0df5e91d8",
+  "E6": true,
+  "E17": "AndreyServicesCategoryId",
+  "E18": "AndreyServicesCategoryName"
+}
++ MetaData.Schema.D2 {
+  "UId": "e2ee4c55-a572-4e28-983f-97185f55a659",
+  "A2": "AndreyServicesCondition",
+  "A3": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A4": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A5": "30df8638-6508-47bb-840a-64ecaff15925",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "e667be7c-f0cf-4c06-9c91-5b18834a4e8e",
+  "E6": true,
+  "E17": "AndreyServicesConditionId",
+  "E18": "AndreyServicesConditionName"
+}
++ MetaData.Schema.D2 {
+  "UId": "96c01bb0-35a8-4cb5-a163-1c9b521e44f6",
+  "A2": "AndreyServicesInitiator",
+  "A3": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A4": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A5": "30df8638-6508-47bb-840a-64ecaff15925",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E17": "AndreyServicesInitiatorId",
+  "E18": "AndreyServicesInitiatorName"
+}
++ MetaData.Schema.D2 {
+  "UId": "dce6f29a-b588-47ba-be55-e17e70f50425",
+  "A2": "AndreyServicesResponsible",
+  "A3": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A4": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A5": "30df8638-6508-47bb-840a-64ecaff15925",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E17": "AndreyServicesResponsibleId",
+  "E18": "AndreyServicesResponsibleName"
+}
++ MetaData.Schema.D2 {
+  "UId": "47181484-b756-4e7b-8c5e-12ff17d98a8b",
+  "A2": "AndreyServicesDescription",
+  "A3": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A4": "44d21e4c-d0a6-4540-a180-23fc41526fe1",
+  "A5": "30df8638-6508-47bb-840a-64ecaff15925",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","860cbfb7-c3ac-4222-aba0-c6779be64dc7","12b3518d-4a5a-4733-b45d-b63d62189227","0d8aa50a-60f7-4f60-b461-404ec8f737b7","26f92a30-ad14-4044-af5d-8725b9896794","273cc29f-c5e0-4abf-be4c-8f1ee7c78ad2","e2ee4c55-a572-4e28-983f-97185f55a659","96c01bb0-35a8-4cb5-a163-1c9b521e44f6","dce6f29a-b588-47ba-be55-e17e70f50425","47181484-b756-4e7b-8c5e-12ff17d98a8b"]
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false
